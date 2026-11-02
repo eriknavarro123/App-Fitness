@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema base sin barra superior; los colores y estilos los pone Compose (MaterialTheme) -->
+    <style name="Theme.FitnessApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
